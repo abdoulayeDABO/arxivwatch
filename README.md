@@ -1,1 +1,1 @@
-# ArxivWatch
+# arxivwatch
